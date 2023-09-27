@@ -1,0 +1,4 @@
+https://github.com/rahulrathore44/KarateFrameworkTutorial
+
+To start the api jar 
+java -jar -Dserver.port=9897 jobportal-0.0.1-SNAPSHOT.jar
